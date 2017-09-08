@@ -2,7 +2,7 @@
 AUTHOR JerryLing(toiklaun@gmail.com)
 
 #TOMCAT_HOME=/opt/tomcat
-
+ ![image](https://github.com/Maxtomb/static-res/raw/master/install.gif)
 #  1.sql folder
 Place all the sql file in to sql folder. The script will load all sql file automatically. 
 #  2.war folder
